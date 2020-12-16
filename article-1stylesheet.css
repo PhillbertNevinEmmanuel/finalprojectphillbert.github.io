@@ -1,0 +1,245 @@
+li.navbar1list a{
+    color: gray;
+    text-align: center;
+    padding: 14px 5px;
+    padding-left: 20px;
+    font-size: small;
+    text-decoration: none;
+    font-family: 'Basic';
+}
+
+li.navbar1listspacing{
+    padding: 0px 79px;
+}
+
+li.navbar1listicons a{
+    float: left;
+    color: gray;
+    text-align: center;
+    padding: 14px 5px;
+}
+
+li#navbar1list a:hover {
+    color: #fff;
+}
+
+li.navbar1list a:hover {
+    color: #fff;
+}
+
+li.navbar1listicons a:hover { 
+    color: #fff;
+}
+  
+li#logo{
+    padding: 20px 100px 0px 100px;
+}
+
+li#navbar2list{
+    padding: 48px 0px 0px; 
+}
+
+li#navbar2list a{
+    color: #f00;
+    text-align: center;
+    padding: 7px 12px;
+    text-decoration: none;
+    font-family: 'Basic';
+    border: 2px solid red;
+}
+
+li.navbar2list{
+    padding: 48px 0px 0px; 
+}
+
+li.navbar2list a{
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    padding: 7px 12px;
+    font-family: 'Basic';
+}
+
+li.navbar2list a:hover {
+    border: 2px solid #f00;
+    color: #f00;
+}
+
+a.button{
+    font-family: 'karla', sans-serif;
+    color: #fff;
+    background-color: #ff8300;
+    padding: 5px 8px;
+    font-size: 13px;
+    font-weight: 700;
+    height: 16px;
+    text-decoration: none;
+}
+
+a.button:hover{
+    text-decoration: none;
+}
+
+.header1{
+    font-size: 40px;
+    font-style: bolder;
+    font-family: 'noticia text', serif;
+    max-width: 100%;
+}
+ 
+.article-date{
+    color: #555;
+    font-family: 'karla', sans-serif;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    vertical-align: baseline;
+    line-height: 20px;
+    border-bottom: double #2c3236;
+    max-width: 100%;
+}
+
+a.comments{
+    color: #555;
+    text-decoration: none;
+}
+
+a.comments:hover{
+    border-bottom: 1px solid #555;
+}
+
+.paragraph1{
+    display: block;
+    font-family: 'karla', sans-serif;
+    max-width: 700px;
+    line-height: 1.7;
+    margin-bottom: 25px;
+}
+
+a.article-link{
+    color: #000;
+    border-bottom: 1px double #000;
+}
+
+a.article-link:hover{
+    color: #f95f3b;
+}
+
+.header3 {
+    box-sizing: content-box;
+    font-family: 'karla', sans-serif;
+    display: block;
+    vertical-align: baseline;
+    border-bottom: 2px solid #2c3236;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 100%;
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+
+ul.mostread{
+    list-style-type: square;
+    padding-left: 25px;
+    max-width: 100%;
+}
+
+li.articlelist{
+    margin-bottom: 30px;
+}
+
+a.articles {
+    font-family: 'karla', sans-serif;
+    text-decoration: none;
+    color: #2c3236;
+    outline: 0;
+}
+
+a.articles:hover {
+    color: #f95f3b;
+}
+
+a.ourpage {
+    color: #2c3236;
+    text-decoration: none;
+}
+
+a.ourpage:hover {
+    color: #f95f3b;
+}
+
+a.news {
+    text-decoration: none;
+    color: #2c3236;
+    font-family:'karla', sans-serif;
+}
+
+a.news:hover{
+    color: #f95f3b;
+}
+
+.header4{
+    font-family: 'karla', sans-serif;
+    vertical-align: baseline;
+    color: #eee;
+    border-bottom: 2px solid #bbb;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 100%;
+    font-size: 16px;
+    margin: 5px 0 20px;
+}
+
+ul.sitemaplinks{
+    list-style-type: none;
+    max-width: 100%;
+}
+
+li.sitemaplist{
+    margin-bottom: 0px;
+}
+
+a.sitemap{
+    font-family: 'Calibri';
+    font-size: 14px;
+    color: #999;
+    text-decoration: none;
+}
+
+.sitemap:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+a.recent-news1{
+    font-family: Calibri;
+    color: #999;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a.recent-news1:hover{
+    color: white;
+}
+
+.socialmedialinks{
+    margin: 10px 10px 10px 10px;
+}
+
+.socialmedialinks a{
+    width: 40px;
+    height: 40px;
+    font-size: 17px;
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #292929;
+    color: #888;
+}
+
+.socialmedialinks a:hover{
+    color: #fff;
+}
